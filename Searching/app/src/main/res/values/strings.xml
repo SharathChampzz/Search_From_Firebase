@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="solution">Solution</string>
+    <string name="disease_name">Disease Name</string>
+</resources>
